@@ -1,4 +1,5 @@
 def add(a, b):
-return a + b
-if __name__ == "__main__":
-print(add(3, 4))
+    return a + b
+
+if _name_ == "_main_":
+    print(add(3, 4))
